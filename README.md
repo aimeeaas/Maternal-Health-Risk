@@ -16,11 +16,11 @@ O notebook cobre todas as etapas da esteira:
 - Avaliação com matriz de confusão e acurácia
 - Predição de um novo exemplo
 
-## Vídeo de apresentação
+## Vídeo de Apresentação
 
 🎥 [Link para o vídeo no YouTube]()
 
-## Como reproduzir
+## Como Reproduzir
 
 1. Clone este repositório ou baixe o arquivo `maternal_health_risk.ipynb`.
 2. Abra o notebook no [Google Colab](https://colab.research.google.com/) (ou Jupyter local).
@@ -32,7 +32,7 @@ O notebook cobre todas as etapas da esteira:
    - A matriz de confusão e a acurácia do modelo no conjunto de teste
    - A predição de um exemplo de paciente
 
-## Tecnologias utilizadas
+## Tecnologias Utilizadas
 
 - Python 3
 - pandas
