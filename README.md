@@ -18,7 +18,7 @@ O notebook cobre todas as etapas da esteira:
 
 ## Vídeo de Apresentação
 
-🎥 [Link para o vídeo no YouTube]()
+🎥 [Link para o vídeo no YouTube](https://youtu.be/n3jvQOg-8yk)
 
 ## Como Reproduzir
 
